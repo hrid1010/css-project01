@@ -244,11 +244,11 @@ button {
     justify-content: center;
     margin: 0% auto;
     flex-direction: column;
-    gap: 24px;
+    gap: 20px;
   }
 
   & h2 {
-    font-size: 40px;
+    font-size: 70px;
   }
 
   .store-design {
